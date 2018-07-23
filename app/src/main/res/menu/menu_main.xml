@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <item android:title="@string/red_string"
+        android:id="@+id/menu_red"
+
+
+        />
+    <item android:title="@string/blue_string"
+        android:id="@+id/menu_blue"
+
+
+        />
+    <item android:title="@string/green_string"
+        android:id="@+id/menu_green"
+
+        />
+
+</menu>
